@@ -1,4 +1,12 @@
-# Learning Log
+---
+layout: post
+title: Markdown test
+categories: markdown
+description: some basic use about md
+keywords: markdown
+---
+
+# Learning Markdown
 
 ## Font
 ~~hello~~

@@ -1,4 +1,12 @@
-# Git Log
+---
+layout: post
+title: Git instruction
+categories: tool
+description: some basic instructions about git and github
+keywords: git
+---
+
+# Git instruction
 
 ## Basic workflow
 
